@@ -1,31 +1,18 @@
-### Hi there 👋
 
-<!--
-**wzf1997/wzf1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  Hi there! I'm Fly ~ 
+  Hi there! I'm Fly  公众号: 前端图形的作者~ 
+  
+- 🔭 I’m currently working on dewu
+- 💬 Ask me about ... canvas、react、互动方向方面的知识
+- 📫 How to reach me: wzf17315389657@163.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
-<a href="https://github.com/wzf1997">
-    <div align="right" >
-        <img align="right" src="https://count.getloli.com/get/@:wangrongding" alt="汪荣顶" />
-    </div>
-</a>
 
 <!-- ======================================================================== -->
 
